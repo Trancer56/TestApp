@@ -85,4 +85,4 @@ function update() {
         gameOver = false;
     }
 }
-//# sourceMappingURL=Game.js.map
+//# sourceMappingURL=game.js.map
